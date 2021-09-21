@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/ecomReact/static/css/main.6e62571d.chunk.css",
+    "main.js": "/ecomReact/static/js/main.2004cadd.chunk.js",
+    "main.js.map": "/ecomReact/static/js/main.2004cadd.chunk.js.map",
+    "runtime-main.js": "/ecomReact/static/js/runtime-main.a2256695.js",
+    "runtime-main.js.map": "/ecomReact/static/js/runtime-main.a2256695.js.map",
+    "static/css/2.35a0f4ae.chunk.css": "/ecomReact/static/css/2.35a0f4ae.chunk.css",
+    "static/js/2.7bbab06d.chunk.js": "/ecomReact/static/js/2.7bbab06d.chunk.js",
+    "static/js/2.7bbab06d.chunk.js.map": "/ecomReact/static/js/2.7bbab06d.chunk.js.map",
+    "index.html": "/ecomReact/index.html",
+    "precache-manifest.4a7767a74f9be761e6ee7038bf35b899.js": "/ecomReact/precache-manifest.4a7767a74f9be761e6ee7038bf35b899.js",
+    "service-worker.js": "/ecomReact/service-worker.js",
+    "static/css/2.35a0f4ae.chunk.css.map": "/ecomReact/static/css/2.35a0f4ae.chunk.css.map",
+    "static/css/main.6e62571d.chunk.css.map": "/ecomReact/static/css/main.6e62571d.chunk.css.map",
+    "static/js/2.7bbab06d.chunk.js.LICENSE.txt": "/ecomReact/static/js/2.7bbab06d.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/ecomReact/static/media/fontawesome-webfont.fee66e71.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a2256695.js",
+    "static/css/2.35a0f4ae.chunk.css",
+    "static/js/2.7bbab06d.chunk.js",
+    "static/css/main.6e62571d.chunk.css",
+    "static/js/main.2004cadd.chunk.js"
+  ]
+}
