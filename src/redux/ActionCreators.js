@@ -207,7 +207,7 @@ export const postFeedback = (
   agree,
   contactType,
   message
-) => dispatch => {
+  ) => dispatch => {
   const newFeedback = {
     firstname: firstname,
     lastname: lastname,
